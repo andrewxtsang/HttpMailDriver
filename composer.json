@@ -1,5 +1,5 @@
 {
-    "name": "skyracer2012/http-mail-driver",
+    "name": "andrewxtsang/http-mail-driver",
     "description": "A Mail driver that sends the email in a json format to a supplied endpoint",
     "keywords": [
         "skyracer2012",
